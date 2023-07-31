@@ -1,0 +1,21 @@
+{
+    "transactions":[
+        {
+            "id":1,
+            "drecricao":"Desenvolvimento de Site",
+            "tipo":"income",
+            "categoria": "Venda",
+            "valor":1400,
+            "createdAt":"2023-05-20T15:36:44.5542"
+        },
+
+        {
+            "id":2,
+            "drecricao":"Pastel",
+            "tipo":"outcome",
+            "categoria": "Venda",
+            "valor":50,
+            "createdAt":"2023-05-20T15:16:44.5542"
+        }
+    ]
+}
