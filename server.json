@@ -2,7 +2,7 @@
     "transactions":[
         {
             "id":1,
-            "drecricao":"Desenvolvimento de Site",
+            "descricao":"Desenvolvimento de Site",
             "tipo":"income",
             "categoria": "Venda",
             "valor":1400,
@@ -11,9 +11,9 @@
 
         {
             "id":2,
-            "drecricao":"Pastel",
+            "descricao":"Pastel",
             "tipo":"outcome",
-            "categoria": "Venda",
+            "categoria": "Alimentação",
             "valor":50,
             "createdAt":"2023-05-20T15:16:44.5542"
         }
